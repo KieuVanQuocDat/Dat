@@ -1,0 +1,15 @@
+D:\PRN211\BaiThuNghiem\BaiThuNghiem\bin\Debug\net6.0\BaiThuNghiem.exe
+D:\PRN211\BaiThuNghiem\BaiThuNghiem\bin\Debug\net6.0\BaiThuNghiem.deps.json
+D:\PRN211\BaiThuNghiem\BaiThuNghiem\bin\Debug\net6.0\BaiThuNghiem.runtimeconfig.json
+D:\PRN211\BaiThuNghiem\BaiThuNghiem\bin\Debug\net6.0\BaiThuNghiem.dll
+D:\PRN211\BaiThuNghiem\BaiThuNghiem\bin\Debug\net6.0\BaiThuNghiem.pdb
+D:\PRN211\BaiThuNghiem\BaiThuNghiem\obj\Debug\net6.0\BaiThuNghiem.csproj.AssemblyReference.cache
+D:\PRN211\BaiThuNghiem\BaiThuNghiem\obj\Debug\net6.0\BaiThuNghiem.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\BaiThuNghiem\BaiThuNghiem\obj\Debug\net6.0\BaiThuNghiem.AssemblyInfoInputs.cache
+D:\PRN211\BaiThuNghiem\BaiThuNghiem\obj\Debug\net6.0\BaiThuNghiem.AssemblyInfo.cs
+D:\PRN211\BaiThuNghiem\BaiThuNghiem\obj\Debug\net6.0\BaiThuNghiem.csproj.CoreCompileInputs.cache
+D:\PRN211\BaiThuNghiem\BaiThuNghiem\obj\Debug\net6.0\BaiThuNghiem.dll
+D:\PRN211\BaiThuNghiem\BaiThuNghiem\obj\Debug\net6.0\refint\BaiThuNghiem.dll
+D:\PRN211\BaiThuNghiem\BaiThuNghiem\obj\Debug\net6.0\BaiThuNghiem.pdb
+D:\PRN211\BaiThuNghiem\BaiThuNghiem\obj\Debug\net6.0\BaiThuNghiem.genruntimeconfig.cache
+D:\PRN211\BaiThuNghiem\BaiThuNghiem\obj\Debug\net6.0\ref\BaiThuNghiem.dll
